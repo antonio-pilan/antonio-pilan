@@ -39,7 +39,7 @@
  📧 &emsp; Reach me anytime: antoniopilandossantos@gmail.com<br/><br/>
  💬 &emsp; Ask me about <strong>anything</strong> <a href="https://wa.me/5516991870000">[here]</a>
 
-[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/antonio-pilan?tab=repositories)
+ <a href="https://github.com/antonio-pilan"><img alt="Tony's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=antonio&pilan_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
 
  
 <!--
