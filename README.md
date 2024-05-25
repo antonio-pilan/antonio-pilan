@@ -2,8 +2,7 @@
 
 <p align="center"> 
   <samp>
-    「 I am a full stack developer from <b>Brazil</b> 」
-    <small>he/him</small>
+    「 I am a full stack developer from <b>Brazil</b> 」- <small>he/him</small>
   </samp>
 </p>
 <p align="center">
