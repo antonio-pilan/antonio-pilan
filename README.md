@@ -43,12 +43,3 @@
   📧 &emsp; Reach me anytime: antoniopilandossantos@gmail.com<br/><br/>
   💬 &emsp; Ask me about <strong>anything</strong> <a href="https://wa.me/5516991870000">[here]</a>
 </p>
-<br>
-Studying daily to be a better person in work and life.
-<br>
-<br>
-
- ![Tony's Graph](https://github-readme-activity-graph.vercel.app/graph?username=antonio-pilan&custom_title=Tony's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
-<br>
-<br>
-<strong>Check my repositories for some of my Work and Studies!</strong>
