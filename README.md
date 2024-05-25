@@ -1,4 +1,8 @@
-<h1><strong> Hi there, Im Antonio (you can call me Tony or Totó)</strong>👋</h1>
+<h1 align="center"><strong> Hey, welcome!</strong>👋</h1>
+<p align="center">
+  💻 Estudante de Programação | 🌍 Apaixonado por Tecnologia | :artificial_satellite:	physicist
+
+</p><br><br>
 <hr>
 
 <!--
