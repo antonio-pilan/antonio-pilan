@@ -1,4 +1,9 @@
-<h1 align="center"><strong> Hey, welcome to my world!</strong>👋</h1>
+<h1 align="center"><strong> Hey, I am Antonio (or Tony, you choose)!</strong>👋</h1>
+<p align="center"> 
+  <samp>
+    「 I am a full stack developer from <b>Brazil</b> 」
+  </samp>
+</p>
 <p align="center">
   💻 Programming lifelong student | 🌍 In love with technology | :artificial_satellite:	physicist
 </p>
