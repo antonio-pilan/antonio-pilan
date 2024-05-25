@@ -34,17 +34,14 @@
 
 
 <br><br>
-<div class="row">
-  <div class="col">
+<p>
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
  📧 &emsp; Reach me anytime: antoniopilandossantos@gmail.com<br/><br/>
  💬 &emsp; Ask me about <strong>anything</strong> <a href="https://wa.me/5516991870000">[here]</a>
-  </div>
-  <div class="col">
- <a href="https://github.com/antonio-pilan"><img alt="Tony's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=antonio-pilan&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  </div>
-</div>
+ 
+ <a align="right" href="https://github.com/antonio-pilan"><img alt="Tony's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=antonio-pilan&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+</p>
  
 <!--
 **antonio-pilan/antonio-pilan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
