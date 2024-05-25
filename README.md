@@ -39,6 +39,8 @@
  📧 &emsp; Reach me anytime: antoniopilandossantos@gmail.com<br/><br/>
  💬 &emsp; Ask me about <strong>anything</strong> <a href="https://wa.me/5516991870000">[here]</a>
 
+[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/antonio-pilan?tab=repositories)
+
  
 <!--
 **antonio-pilan/antonio-pilan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
