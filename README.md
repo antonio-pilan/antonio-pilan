@@ -1,8 +1,9 @@
-<h1 align="center"><strong> Hey, I am Antonio (or Tony, you choose)!</strong>👋</h1><small>he/him</small>
+<h1 align="center"><strong> Hey, I am Antonio (or Tony, you choose)!</strong>👋</h1>
 
 <p align="center"> 
   <samp>
     「 I am a full stack developer from <b>Brazil</b> 」
+    <small>he/him</small>
   </samp>
 </p>
 <p align="center">
