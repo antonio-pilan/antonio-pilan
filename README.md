@@ -1,5 +1,5 @@
-<h1 align="center"><strong> Hey, I am Antonio (or Tony, you choose)!</strong>👋</h1>
-<p style="fontsize: 2"><small>he/him</small></p>
+<h1 align="center"><strong> Hey, I am Antonio (or Tony, you choose)!</strong>👋</h1><small>he/him</small>
+
 <p align="center"> 
   <samp>
     「 I am a full stack developer from <b>Brazil</b> 」
