@@ -15,6 +15,8 @@
 </p>
 <hr>
 <br><br>
+## 🚀 Programming Languages:
+[![My Skills](https://skillicons.dev/icons?i=python,c)](https://skillicons.dev)<br><br>
 
 <!--
 **antonio-pilan/antonio-pilan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
