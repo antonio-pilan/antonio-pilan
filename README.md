@@ -35,9 +35,7 @@
 
 <br><br>
 <p>
- <div align="right"> 
    <a href="https://github.com/antonio-pilan"><img alt="Tony's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=antonio-pilan&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <\div>
     
   ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
   ❤️ &emsp; Love to writing code and learning new features<br/><br/>
