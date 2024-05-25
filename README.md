@@ -15,9 +15,12 @@
 </p>
 <hr>
 <br><br>
-## 🚀 Programming Languages:
-[![My Skills](https://skillicons.dev/icons?i=python,c)](https://skillicons.dev)<br><br>
+ ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
+ ❤️ &emsp; Love to writing code and learning new features<br/><br/>
+ 📧 &emsp; Reach me anytime: antoniopilandossantos@gmail.com<br/><br/>
+ 💬 &emsp; Ask me about <strong>anything</strong> [here](https://wa.me/5516991870000)
 
+ 
 <!--
 **antonio-pilan/antonio-pilan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
