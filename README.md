@@ -1,11 +1,11 @@
 <h1 align="center"><strong> Hey, welcome to my world!</strong>👋</h1>
 <p align="center">
   💻 Programming lifelong student | 🌍 In love with technology | :artificial_satellite:	physicist
-</p><br><br>
+</p>
 <p align="center">
- <a href="https://alsiam.com" target="blank">
+ <!--<a href="https://alsiam.com" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
- </a>
+ </a>-->
  <a href="https://www.linkedin.com/in/antonio-pilan97/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
  </a>
@@ -14,6 +14,7 @@
  </a> 
 </p>
 <hr>
+<br><br>
 
 <!--
 **antonio-pilan/antonio-pilan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
