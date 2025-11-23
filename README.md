@@ -6,7 +6,7 @@
   </samp>
 </p>
 <p align="center">
-  💻 Programming lifelong student | 🌍 In love with technology | :artificial_satellite:	physicist
+  💻 Software and Machine Learning engineering | 🌍 In love with technology | :artificial_satellite:	Really into physics and mathematics
 </p>
 <p align="center">
  <!--<a href="https://alsiam.com" target="blank">
