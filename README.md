@@ -2,11 +2,11 @@
 
 <p align="center"> 
   <samp>
-    「 I am a Data Scientist and Full Stack Developer from <b>Brazil</b> 」- <small>he/him</small>
+    「 I am a Data and Machine Learning engineer from <b>Brazil</b> 」- <small>he/him</small>
   </samp>
 </p>
 <p align="center">
-  💻 Software and Machine Learning engineer | 🌍 In love with technology | :artificial_satellite:	Really into physics and mathematics
+  💻 Data and Development | 🌍 In love with technology | :artificial_satellite:	Really into physics and mathematics
 </p>
 <p align="center">
  <!--<a href="https://alsiam.com" target="blank">
