@@ -1,4 +1,4 @@
-<h1 align="center"><strong> Hey, I am Antonio (or Tony, you choose)!</strong>👋</h1>
+<h1 align="center"><strong> Hey, I am Antonio (or Tony, up to you)!</strong>👋</h1>
 
 <p align="center"> 
   <samp>
